@@ -1,0 +1,14 @@
+email	 : admin@gmail.com
+password : admin
+
+email	 : dosen@gmail.com
+password : dosen
+
+email	 : dosenterpilih@gmail.com
+password : dosenterpilih
+
+email	 : kaprodi@gmail.com
+password : kaprodi
+
+email	 : viewer@gmail.com
+password : viewer
